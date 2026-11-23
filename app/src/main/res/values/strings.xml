@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daily Expenses</string>
+    <string name="choose_date">Choose date</string>
+    <string name="daily_total">Daily total: %1$s</string>
+    <string name="empty_day">No expenses for this day. Tap Add expense to get started.</string>
+    <string name="add_expense">Add expense</string>
+    <string name="description_hint">Description (e.g. Lunch)</string>
+    <string name="amount_hint">Amount (%1$s)</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="invalid_description">Enter a description (up to 100 characters).</string>
+    <string name="invalid_amount">Enter a positive amount with at most two decimal places (maximum 999,999,999.99).</string>
+    <string name="delete_expense">Delete expense?</string>
+    <string name="delete_message">Delete %1$s (%2$s)?</string>
+    <string name="delete">Delete</string>
+    <string name="delete_accessibility">Delete %1$s</string>
+    <string name="storage_error">Could not access local storage. Please try again.</string>
+    <string name="offline_notice">Stored only on this device • No account or internet needed</string>
+</resources>
